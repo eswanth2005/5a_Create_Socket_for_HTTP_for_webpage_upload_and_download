@@ -1,4 +1,7 @@
 # 5a_Create_Socket_for_HTTP_for_webpage_upload_and_download
+
+## NAME: ESWANTH KUMAR K
+## REG NO: 212223040046
 ## AIM :
 To write a PYTHON program for socket for HTTP for web page upload and download
 ## Algorithm
@@ -57,7 +60,7 @@ if __name__ == "__main__":
 ```
 
 ## OUTPUT
-![Screenshot (29)](https://github.com/eswanth2005/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/164656722/7b8859a7-8d4f-4ffa-9775-c99788dc02ee)
+![Screenshot (48)](https://github.com/eswanth2005/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/164656722/aa9857e1-7f96-4f85-8ae5-2f71dd8a1eca)
 
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
