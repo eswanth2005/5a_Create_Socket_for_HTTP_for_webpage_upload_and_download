@@ -1,7 +1,7 @@
 # 5a_Create_Socket_for_HTTP_for_webpage_upload_and_download
 
-## NAME: SAI GURU CHANDRAN G
-## REG NO: 212223240143
+## NAME: ESWANTH KUMAR
+## REG NO: 212223040046
 ## AIM :
 To write a PYTHON program for socket for HTTP for web page upload and download
 ## Algorithm
